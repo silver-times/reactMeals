@@ -5,10 +5,10 @@ A ReactJS-based food-ordering web-app. For the State Management of the applicati
 ## Features
 
 The **Main Screen** view to add items in the cart. 
-![main](https://user-images.githubusercontent.com/82762243/156411446-df4203b4-62a5-43ec-9958-5bdf0451d7ce.png)
+![main](https://user-images.githubusercontent.com/82762243/156661007-90c42d60-0921-46b7-b353-b1818af3c564.png)
 
 A **Modal Layer** to view the selected items and the final amount. 
-![completed](https://user-images.githubusercontent.com/82762243/156411443-3d592a4b-6055-4fa4-8cb0-b0cb7a2204d5.png)
+![modal](https://user-images.githubusercontent.com/82762243/156661002-a0a3028b-fef6-4bfe-9eb4-32b4d148a409.png)
 
 ## State Management
 
